@@ -1,5 +1,5 @@
 # Circus-Social
-Step to run this notebook on Google colab
+Steps to run this notebook on Google colab
 
     Step_1: Open Circus_Social.ipynb
     Step_2: Click on the google colab logo
